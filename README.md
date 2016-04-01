@@ -18,7 +18,7 @@ PKI（公钥基础设施）技术是HTTPS的基础，PKI与非对称密钥加密
 
 双向认证原理图:
 
-![图片](../images/httpsyuanlitu.png)
+![图片](http://ihaodi.net/images/httpsyuanlitu.png)
 
 
 ##需要准备的自签名证书
